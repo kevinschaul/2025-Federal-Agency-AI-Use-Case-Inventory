@@ -1,63 +1,63 @@
-Use Case Name,Bureau,Use Case Topic Area,Intended Purpose and Expected
-Extreme Load Analysis,Enteprise Planning,Energy & the Environment
-Materials Intelligent Catalog Assistant,Supply Chain,Energy & the
-Vegetation Management,Right of Way,Energy & the Environment
-CAP Automation,Enterprise Analytics & Innovation,Energy & the
-CR intelligent search,Enterprise Analytics & Innovation,Energy & the
-Materials tracking,Supply Chain,Energy & the Environment,Use
-Heliviewer,Enterprise Analytics & Innovation,Energy & the Environment
-ICI camera,Enterprise Analytics & Innovation,Energy & the Environment
-GET,Generation Projects & Fleet Strategy,Energy & the Environment
-GMET,Generation Projects & Fleet Strategy,Energy & the Environment
-Optiwatt EV Load Model,Commercial Energy Solutions,Energy & the
-Cold-Weather Heat Pump Model,Commercial Energy Solutions,Energy & the
-EE/DR Smart Thermostat Impact Model,Commercial Energy Solutions,Energy
-EnergyRightPSPImpactsForecasting,Commercial Energy Solutions,Energy &
-CESASolarModel,Commercial Energy Solutions,Energy & the Environment
-CESAFCAAllocator,Commercial Energy Solutions,Energy & the Environment
-EnergyRightDERPortfolioEvaluation,Commercial Energy Solutions,Energy &
-Prism Models for MDM,Monitoring Diagnostics Management,Energy & the
-Environment,Anomaly detection,Neither
-Load Forecasting,Enterprise Planning,Energy & the Environment
-ArcGIS,GIS,Energy & the Environment,Improved efficiency and
-Advanced Network Anomaly Detection,Network,Information Technology
-Natural Reader,Workforce Development,Administrative Functions,Text-
-River Forecast,Riverfleet Management Services,Energy & the Environment
-Perimeter Defense,Network,Information Technology,Using a combination
-AI-Enhanced Search,IT Operations,Information Technology,Portal users
-Network Anomaly Detection,Transmission,Energy & the Environment,Real-
-Westlaw,Office of General Counsel,Other,Reduces the time necessary to
-Copilot,Information Technology,Administrative Functions,Increased
-Github Copilot,Information Technology,Information Technology
-ESRI GIS AI,Transmission System Support,Energy & the Environment
-SEEQ AI,Generation,Energy & the Environment,It serves multiple
-Information Technology,Increased efficiency and productivity,Neither
-Cisco ML,Information Technology,Cybersecurity,"Insights, Increased"
-Datum,Information Technology,Information Technology,Datum is a
-Transmission analytics,Safety & Shared Services,Energy & the
-AWS Q,Information Technology,Information Technology,Use of AWS Q will
-ChatSPP,Information Technology,Administrative Functions,Increased
-GET Enhancement,Generation Projects & Fleet Services,Energy & the
-GMET Enhancement,Generation Projects & Fleet Services,Energy & the
-GMET Multivariate analysis,Generation Projects & Fleet Services,Energy
-CAP Enhancement,Nuclear,Energy & the Environment,Increased efficiency
-COBIT and ATAD Prediction,Information Technology,Information
-Technology,Increased efficiency and productivity,Neither
-Generation Project Funding Estimates,Generation,Energy & the
-Environment,"Increased efficiency and productivity, reduced errors",Neither
-Land Management Records,Information Technology,Energy & the
-Environmental Documentation,Information Technology,Energy & the
-Environment,Increased efficiency and productivity,Neither
-Bill of Material,Information Technology,Energy & the Environment
-TVA Today AI,Information Technology,Energy & the Environment
-Non-NPG CAP,Information Technology,Energy & the Environment,Increased
-Azure FEWS CUA,River Management,Energy & the Environment,Increased
-Azure Nuclear Permitting Solution,Nuclear,Energy & the Environment
-AWS Transcribe,Information Technology,Human Resources,-Extract key
-Thinklabs,Innovation & Research,Energy & the Environment,Run TVA PSSE
-Specification Intelligence,Innovation & Research,Energy & the
-Trade Chat,Transmission,Energy & the Environment,Improved code of
-Amazon Connect,Information Technology,Information Technology,Improved
-Enscape,Information Technology,Information Technology,Enhanced
-Arkio,Economic Development,Information Technology,Enhanced visuals
-Talkwalker,External Communications,Administrative Functions,Improved
+Use Case Name,Bureau,Use Case Topic Area,Intended Purpose and Expected Benefits,Impact Classification
+Extreme Load Analysis,Enteprise Planning,Energy & the Environment,Extreme load analysis involves estimating the likelihood of peaks in energy demand for different months of the year and hours of the day. This will aid in energy forecasting,Neither
+Materials Intelligent Catalog Assistant,Supply Chain,Energy & the Environment,"Faster insights, access to information, and reduction of duplicates",Neither
+Vegetation Management,Right of Way,Energy & the Environment,Monitoring of vegetation around  transmission line and tower and predictive analytics on when/where to trim.,Neither
+CAP Automation,Enterprise Analytics & Innovation,Energy & the Environment,"Use NLP to classify condition reports as C, E, or WO level",Neither
+CR intelligent search,Enterprise Analytics & Innovation,Energy & the Environment,Use NLP to search through CRs. Also tool to include pattern recognition and adding additional safety data to search for and do topic modeling on,Neither
+Materials tracking,Supply Chain,Energy & the Environment,Use predictive analytics and confidence levels to track materials as they go through the supply chain process and risk on being delivered on time,Neither
+Heliviewer,Enterprise Analytics & Innovation,Energy & the Environment,Use of helicopter image data for survey and project insights,Neither
+ICI camera,Enterprise Analytics & Innovation,Energy & the Environment,Use computer vision to detect rate of change of water temperature with thermal image data which is indicative of dam leakage,Neither
+GET,Generation Projects & Fleet Strategy,Energy & the Environment,"Groundwater evaluation Tool - The GET Tool is designed to provide statistical analysis of groundwater monitoring data required under State regulatory programs and the federal Coal Combustion Residuals (CCR) rule. It uses state-of-the-art statistical and predictive methods to evaluate geochemical and geotechnical data under three phases of groundwater monitoring: Detection, Assessment, and Corrective Action. In “Detection”, background data is used to construct prediction limits for use in identifying statistically significant changes from background levels. In “Assessment” and “Corrective Action”, compliance data is used to compute confidence intervals and confidence bands to assess violations of groundwater protection standards (GWPS) to inform of corrective action needs.",Neither
+GMET,Generation Projects & Fleet Strategy,Energy & the Environment,The Groundwater Modeling Evaluation Tool (GMET) is an R Shiny application that uses Phreeqc geochemical models and analysis to evaluate groundwater chemistry data at each of TVA’s CCR sites,Neither
+Optiwatt EV Load Model,Commercial Energy Solutions,Energy & the Environment,Linear model to predict hourly unitized charging load from non-fleet EVs in a typical meteorological year (TMY).,Neither
+Cold-Weather Heat Pump Model,Commercial Energy Solutions,Energy & the Environment,KNN regression to predict hourly unitized impact of an upgraded CWHP in a residential home under historical and forecasted weather conditions.,Neither
+EE/DR Smart Thermostat Impact Model,Commercial Energy Solutions,Energy & the Environment,DR dispatch simulation to demonstrate hourly unitized impact of an EE/DR smart thermostat in a residential home under historical and forecasted weather & load conditions.,Neither
+Standard EE/BE Measure Impact Models,Commercial Energy Solutions,Energy & the Environment,Set of ~200 linear models for other EE & BE measures  to predict hourly unitized impactunder historical and forecasted weather conditions. Based on a standardized set of calendar and weather features.,Neither
+EnergyRightPSPImpactsForecasting,Commercial Energy Solutions,Energy & the Environment,"This app is (1) an ETL tool for ancillary data (2) a light-weight MLOps tool for the modeling of energy efficiency and electrification measure-level impact shapes, primarily as it relates to system planning assumptions and (3) a user interface to ES&P's forecast aggregation engine as a supply-side resource.",Neither
+CESASolarModel,Commercial Energy Solutions,Energy & the Environment,"This app allows internal TVA users to generate sample bills for directly served and BCD-rate customers based on active wholesale rates, historical load, and expected shape/magnitude of new behind-the-meter solar arrays.",Neither
+CESAFCAAllocator,Commercial Energy Solutions,Energy & the Environment,Improved efficiency and productivity,Neither
+EnergyRightDERPortfolioEvaluation,Commercial Energy Solutions,Energy & the Environment,Enterprise Planning can now obtain aggregations of ES&P forecasts and ES&P can gain insight into evaluation methodologies. It also contains a connection to the ES&P forecast aggregation engine for reporting purposes and stochastic simulation tools.,Neither
+Prism Models for MDM,Monitoring Diagnostics Management,Energy & the Environment,Anomaly detection,Neither
+Load Forecasting,Enterprise Planning,Energy & the Environment,Improved efficiency and productivity,Neither
+ArcGIS,GIS,Energy & the Environment,"Improved efficiency and productivity, access to information and insights",Neither
+Advanced Network Anomaly Detection,Network,Information Technology,These tools use a massive amount of data and provide intelligence beyond what could be seen from a single vector. Correlated network traffic data with proxy communications help identify compromised systems and networks.,Neither
+Natural Reader,Workforce Development,Administrative Functions,"Text-to-speech desktop software for individual use. This easy-to-use software with natural-sounding voices can read any text such as Microsoft Word files, webpages, PDF files, and E-mails.",Neither
+River Forecast,Riverfleet Management Services,Energy & the Environment,A multi-scale graph neural network-based autoregressive model. It is trained on historical weather data from ECMWF's ERA5 reanalysis archive. The tool generates predictions at 6-hour time steps for a set of surface and atmospheric variables.,Neither
+Perimeter Defense,Network,Information Technology,"Using a combination of ruleset definitions specifically designed to detect malicious activity and augmented by a proprietary machine learning algorithm, this tool protects web applications regardless of location. Models trained based on millions of sampled network traffic enables this tool to proactively detect and prevent malicious network activity from reaching and affecting web applications.",Neither
+AI-Enhanced Search,IT Operations,Information Technology,"Portal users can find answers more quickly and easily with features like auto-complete search queries, natural language support, and typo handling.",Neither
+Network Anomaly Detection,Transmission,Energy & the Environment,"Real-time visibility into network communications, assets, connections, and protocols.",Neither
+Westlaw,Office of General Counsel,Other,Reduces the time necessary to perform legal research and provides a tool to check for accuracy in legal writing.,Neither
+Copilot,Information Technology,Administrative Functions,Increased efficiency and productivity,Neither
+Github Copilot,Information Technology,Information Technology,Increased efficiency and productivity,Neither
+ESRI GIS AI,Transmission System Support,Energy & the Environment,Increased efficiency and productivity,Neither
+SEEQ AI,Generation,Energy & the Environment,"It serves multiple functional roles to enhance productivity, accelerate insights, and bridge knowledge gaps for users working with time series data.",Neither
+Data Services Business Context Definition,Information Technology,Information Technology,Increased efficiency and productivity,Neither
+Cisco ML,Information Technology,Cybersecurity,"Insights, Increased efficiency, increased productivity",Neither
+Datum,Information Technology,Information Technology,"Datum is a virtual knowledge employee for Teams. The system can search data and provide analysis, it can be taught any additional knowledge within the group’s data or the group’s objective s and can generate reports and output along with analysis on the output. The system can also create new work the same way an Analyst can using the internal data to transform it to desired output. For example, the system can get your unit data and run a unit commitment on it and then analyze the output. You can refine it by giving it input in English. The final product can be saved so other users can use the same instructions (it can take inputs though of dates/units, etc. that you specify so users can run it with different input each time). It will simulate having your own internal Analyst and IT resource in one.",Neither
+Transmission analytics,Safety & Shared Services,Energy & the Environment,,Neither
+AWS Q,Information Technology,Information Technology,Use of AWS Q will help IT be more efficient and increase productivity,Neither
+ChatSPP,Information Technology,Administrative Functions,"Increased efficiency and productivity, faster searching and access to information",Neither
+GET Enhancement,Generation Projects & Fleet Services,Energy & the Environment,"The requested updates will augment the GET application by adding the ability to subset and display SSL Confidence Band plots within the user interface, alongside other planned bug fixes and performance enhancements.",Neither
+GMET Enhancement,Generation Projects & Fleet Services,Energy & the Environment,"This update allows TVA staff to filter, visualize, and export model results on demand, reducing reliance on static reports and improving operational efficiency.",Neither
+GMET Multivariate analysis,Generation Projects & Fleet Services,Energy & the Environment,"Increased efficiency and productivity, faster searching and access to information",Neither
+CAP Enhancement,Nuclear,Energy & the Environment,Increased efficiency and productivity,Neither
+COBIT and ATAD Prediction,Information Technology,Information Technology,Increased efficiency and productivity,Neither
+Generation Project Funding Estimates,Generation,Energy & the Environment,"Increased efficiency and productivity, reduced errors",Neither
+Land Management Records,Information Technology,Energy & the Environment,"AI system to efficiently help find information for public inquiries related to land managment, dock permits, and annual reviews.",Neither
+Environmental Documentation,Information Technology,Energy & the Environment,Increased efficiency and productivity,Neither
+Bill of Material,Information Technology,Energy & the Environment,"Increased efficiency and productivity, faster searching and access to information",Neither
+TVA Today AI,Information Technology,Energy & the Environment,"Increased efficiency, productivity, and access to information",Neither
+Non-NPG CAP,Information Technology,Energy & the Environment,Increased efficiency and productivity,Neither
+Azure FEWS CUA,River Management,Energy & the Environment,"Increased efficiency and productivity, faster access to information",Neither
+Azure Nuclear Permitting Solution,Nuclear,Energy & the Environment,"Increased efficiency and productivity, faster searching and access to information, improved compliance",Neither
+AWS Transcribe,Information Technology,Human Resources,"-Extract key business insights from customer calls, video files, clinical conversations, and more.
+-Improve business outcomes with state of the art speech recognition models that are fully managed and continuously trained.
+-Enhance accuracy with custom models that understand your domain specific vocabulary.
+-Ensure customer privacy and safety by masking sensitive information.",Neither
+Thinklabs,Innovation & Research,Energy & the Environment,"Run TVA PSSE models, train a graph neural net on those results, utilize reinforcement learning on top of the GNN to optimally answer user questions such as ""Where are the top 5 optimal places for a new battery?"" or ""what is the optimal transmission investment set to accomodate these 5 new generators and 15 new loads?""",Neither
+Specification Intelligence,Innovation & Research,Energy & the Environment,"Phase1: it would simply include a chat window for users to ask questions of our specs.  Phase 2: it would break our specs into concepts and create a matrix, allowing users to help harmonize our specs.  This is part of a larger effort within TVA Projects around standardization",Neither
+Trade Chat,Transmission,Energy & the Environment,Improved code of conduct chat tool functions,Neither
+Amazon Connect,Information Technology,Information Technology,Improved customer support for helpdesk,Neither
+Enscape,Information Technology,Information Technology,Enhanced visuals for economic development efforts,Neither
+Arkio,Economic Development,Information Technology,Enhanced visuals for economic development efforts,Neither
+Talkwalker,External Communications,Administrative Functions,Improved visibility of brand reputation,Neither

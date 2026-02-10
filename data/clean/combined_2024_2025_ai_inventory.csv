@@ -5365,12 +5365,12 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Tennessee Valley Authority,Optiwatt EV Load Model,False
 2025,Tennessee Valley Authority,Cold-Weather Heat Pump Model,False
 2025,Tennessee Valley Authority,EE/DR Smart Thermostat Impact Model,False
+2025,Tennessee Valley Authority,Standard EE/BE Measure Impact Models,False
 2025,Tennessee Valley Authority,EnergyRightPSPImpactsForecasting,False
 2025,Tennessee Valley Authority,CESASolarModel,False
 2025,Tennessee Valley Authority,CESAFCAAllocator,False
 2025,Tennessee Valley Authority,EnergyRightDERPortfolioEvaluation,False
 2025,Tennessee Valley Authority,Prism Models for MDM,False
-2025,Tennessee Valley Authority,Environment,False
 2025,Tennessee Valley Authority,Load Forecasting,False
 2025,Tennessee Valley Authority,ArcGIS,False
 2025,Tennessee Valley Authority,Advanced Network Anomaly Detection,False
@@ -5384,7 +5384,7 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Tennessee Valley Authority,Github Copilot,False
 2025,Tennessee Valley Authority,ESRI GIS AI,False
 2025,Tennessee Valley Authority,SEEQ AI,False
-2025,Tennessee Valley Authority,Information Technology,False
+2025,Tennessee Valley Authority,Data Services Business Context Definition,False
 2025,Tennessee Valley Authority,Cisco ML,False
 2025,Tennessee Valley Authority,Datum,False
 2025,Tennessee Valley Authority,Transmission analytics,False
@@ -5395,12 +5395,9 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Tennessee Valley Authority,GMET Multivariate analysis,False
 2025,Tennessee Valley Authority,CAP Enhancement,False
 2025,Tennessee Valley Authority,COBIT and ATAD Prediction,False
-2025,Tennessee Valley Authority,Technology,False
 2025,Tennessee Valley Authority,Generation Project Funding Estimates,False
-2025,Tennessee Valley Authority,Environment,False
 2025,Tennessee Valley Authority,Land Management Records,False
 2025,Tennessee Valley Authority,Environmental Documentation,False
-2025,Tennessee Valley Authority,Environment,False
 2025,Tennessee Valley Authority,Bill of Material,False
 2025,Tennessee Valley Authority,TVA Today AI,False
 2025,Tennessee Valley Authority,Non-NPG CAP,False
