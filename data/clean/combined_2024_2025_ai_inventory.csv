@@ -2454,6 +2454,83 @@ collection on fish communities",False
 2025,Department of Commerce,Assisted software development,False
 2025,Department of Commerce,Call Center Automations (Internal),False
 2025,Department of Commerce,Pre-Exam Application Processing: Trademark Center (TM Center) AI Automation,False
+2025,Department of Education,Aidan Chat-bot,False
+2025,Department of Education,IPAC RPA Bot,False
+2025,Department of Education,CAISY - Artificial Intelligence System Skillsoft Percipio Assessment for the Department Use,False
+2025,Department of Education,Grammarly AI Writing Assistant,False
+2025,Department of Education,Speech to Text Meeting Transcription,False
+2025,Department of Education,Legislation Comment Categorization,False
+2025,Department of Education,Customer Service Support,False
+2025,Department of Education,Comment Categorization,False
+2025,Department of Education,Azure AI Internal General Q&A,False
+2025,Department of Education,Generative AI and Foundation Model Integration,False
+2025,Department of Education,Department-wide implementation of GSA USAi,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Idea Suggestion,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Design Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Data Manipulation,False
+2025,Department of Education,Generative AI - Idea Suggestion,False
+2025,Department of Education,Generative AI - Mock Data Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Idea Suggestion,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - System Testing,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Capability Evaluation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Capability Evaluation,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Capability Evaluation,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Idea Suggestion,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Capability Evaluation,False
+2025,Department of Education,Generative AI - Image Generation,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Information Summarization,False
+2025,Department of Education,Generative AI - Code Generation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,Generative AI - Capability Evaluation,False
+2025,Department of Education,Generative AI - Text Generation,False
+2025,Department of Education,MS Copilot - Document Creation & Editing,False
+2025,Department of Education,MS Copilot - Summarization,False
+2025,Department of Education,MS Copilot - Data Analysis & Insights,False
+2025,Department of Education,MS Copilot - Process & Workflow Automation,False
+2025,Department of Education,MS Copilot - Compliance & Risk Management,False
+2025,Department of Education,MS Copilot - Collaboration & Communication,False
+2025,Department of Education,MS Copilot - Research & Knowledge Management,False
+2025,Department of Education,MS Copilot - Training & Education,False
+2025,Department of Education,MS Copilot - Project & Task Management,False
+2025,Department of Education,MS Copilot - Content Organization & Archiving,False
+2025,Department of Education,MS Copilot - Grant & Program Management,False
+2025,Department of Education,MS Copilot - Security & Privacy,False
+2025,Department of Education,MS Copilot - Business Process Improvement,False
+2025,Department of Education,MS Copilot - Technical Assistance & Code Generation,False
+2025,Department of Education,MS Copilot - Creative & Productive Work Enhancement,False
 2025,Department of Energy,AI for Operations Center,False
 2025,Department of Energy,Natural Language Processing,False
 2025,Department of Energy,DOE AI Data Infrastructure System,False
@@ -3493,6 +3570,19 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Department of Homeland Security,Conversation Training and Feedback Simulator,True
 2025,Department of Homeland Security,Case Processing Improvements in FDNS-DS NexGen,True
 2025,Department of Homeland Security,OCR for Scanning and Cataloging Documentation [Captiva Open Text],True
+2025,Department of Housing and Urban Development,Counterparty Risk Anomaly Detection,False
+2025,Department of Housing and Urban Development,Subledger Data Quality Machine Learning,False
+2025,Department of Housing and Urban Development,"Automated Draft Narrative Reports
+
+Previously ""Automating Draft Counterparty Credit Narrative Reports""; have since expanded to general enterprise use.",False
+2025,Department of Housing and Urban Development,Voice of the Customer,False
+2025,Department of Housing and Urban Development,Quantitative Text Analysis,True
+2025,Department of Housing and Urban Development,Translation of Digital Media,True
+2025,Department of Housing and Urban Development,Microsoft Copilot,False
+2025,Department of Housing and Urban Development,Amazon Textract for automatic signature identification,False
+2025,Department of Housing and Urban Development,Email Assistant,False
+2025,Department of Housing and Urban Development,CAISY - Workforce Training Conversation Simulator,False
+2025,Department of Housing and Urban Development,FHA Resource Center Chatbot,False
 2025,Department of Justice,Adobe Suite Applications,False
 2025,Department of Justice,Airlines Travel Intelligence Program,False
 2025,Department of Justice,Unmanned Aerial Systems (UAS),False
@@ -4712,6 +4802,32 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Election Assistance Commission,Internal Generative AI Tools for Staff Productivity,False
 2025,Election Assistance Commission,Grants Lifecycle Application System,False
 2025,Election Assistance Commission,Routing emails from shared inboxes,False
+2025,Environmental Protection Agency,Streamflow Duration Assessment Modeling,False
+2025,Environmental Protection Agency,AI Assistants in Esri Tools,False
+2025,Environmental Protection Agency,Preparation of Brownfields Success Stories,False
+2025,Environmental Protection Agency,SF182 Form and Policy Assistant,False
+2025,Environmental Protection Agency,Microsoft Power Automate (custom document processing model),False
+2025,Environmental Protection Agency,Helpdesk chat assistant for common data system tasks,False
+2025,Environmental Protection Agency,RelativityOne Gov aiR,False
+2025,Environmental Protection Agency,Summarize and draft response to comments,False
+2025,Environmental Protection Agency,Document comparison,False
+2025,Environmental Protection Agency,OPP Document Data Extraction,False
+2025,Environmental Protection Agency,Energy Star Awards Application Profile Drafting,True
+2025,Environmental Protection Agency,Natural Gas Star Videos,True
+2025,Environmental Protection Agency,Transitioning historical help desk knowledge to new help desk software,True
+2025,Environmental Protection Agency,Emission monitoring program knowledge management system search and summary,True
+2025,Environmental Protection Agency,Identifying outliers in reported emissions data,True
+2025,Environmental Protection Agency,AI Rules,False
+2025,Environmental Protection Agency,Predictive Analytics Supporting GHGRP Data Review,True
+2025,Environmental Protection Agency,Semantic search of qualitative data,False
+2025,Environmental Protection Agency,Agency Records Management System,False
+2025,Environmental Protection Agency,CUI Marking Tool,False
+2025,Environmental Protection Agency,AI-Enhanced Facility Finder,False
+2025,Environmental Protection Agency,Living Literature Review: Semi-automated Literature Screening,False
+2025,Environmental Protection Agency,Using machine learning methods to analyze drivers of water quality,False
+2025,Environmental Protection Agency,Resource Conservation and Recovery Act Predictive Analytics,False
+2025,Environmental Protection Agency,Clean Water Act Predictive Analytics,False
+2025,Environmental Protection Agency,Clean Air Act Predictive Analytics,False
 2025,Equal Employment Opportunity Commission,AI Answers in Clearinghouse Network,False
 2025,Equal Employment Opportunity Commission,Internal Generative AI Tools for Staff Productivity,False
 2025,Equal Employment Opportunity Commission,Grants Lifecycle Application System,False
@@ -4828,6 +4944,22 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,Federal Reserve Board of Governors,Virtual Benefits Assistant,False
 2025,Federal Reserve Board of Governors,Data Quality Prioritization Dashboard,False
 2025,Federal Reserve Board of Governors,Monitoring Earnings Conference Calls,False
+2025,Federal Trade Commission,Automatic PSC Classification,False
+2025,Federal Trade Commission,Group Duplicate Complaints,False
+2025,Federal Trade Commission,Chatbot,True
+2025,Federal Trade Commission,Word Cloud,False
+2025,Federal Trade Commission,Graph Analytics,False
+2025,Federal Trade Commission,Analytic Sandbox,False
+2025,Federal Trade Commission,Developer Productivity,False
+2025,Federal Trade Commission,Relativity Active Learning,False
+2025,Federal Trade Commission,Relativity Integrated Veritone,False
+2025,Federal Trade Commission,Microsoft 365 Copilot,False
+2025,Federal Trade Commission,CRC Call Summarization,False
+2025,Federal Trade Commission,Azure Databricks Assistance,False
+2025,Federal Trade Commission,IVR Automated Voice Assistant,False
+2025,Federal Trade Commission,GenAI Mail Scan,False
+2025,Federal Trade Commission,Azure ML,False
+2025,Federal Trade Commission,DNC IVR Audio File Transcription,True
 2025,National Aeronautics and Space Administration,Anomaly Detection and Precursor Identification in UAV flight data,False
 2025,National Aeronautics and Space Administration,Autoresolver/Tailored Arrival Manager,False
 2025,National Aeronautics and Space Administration,Deep Learning for Flood Mapping (DELTA),True
@@ -5270,6 +5402,23 @@ Previously: Drug Review Letter Generation using GenAI",False
 2025,National Credit Union Administration,Machine Learning Data Validation,False
 2025,National Credit Union Administration,Supervisory Stress Testing,False
 2025,National Credit Union Administration,Risk Indicator Model,False
+2025,National Science Foundation,"ServiceNow GenAI ""Now Assist""",False
+2025,National Science Foundation,Budget Area Topic Classification Tool,False
+2025,National Science Foundation,AI voice over,False
+2025,National Science Foundation,Adobe Photoshop,False
+2025,National Science Foundation,Resubmit Checker,False
+2025,National Science Foundation,Amazon Web Services(AWS) Assisted Software Development (DIS AI Assisted Development),False
+2025,National Science Foundation,Mine Potential Reviewer's areas of expertise,False
+2025,National Science Foundation,"Use AI to populate reviewer ""areas of expertise"" and state of potential Regional Engines submitters (members of organizations)",False
+2025,National Science Foundation,"Enhancing Technology, Innovation and Partnerships (TIP) Awards: Efficient Tagging for the 10 Key Technology Areas (KTAs)",False
+2025,National Science Foundation,Open-source topic identification for the Public Engagement with Science Initiative data analysis.,False
+2025,National Science Foundation,Hand-written text extraction using Textract for the Public Engagement with Science Initiative,False
+2025,National Science Foundation,NSF AI-Ready Research Performance Progress Reports (RPPR) Data,False
+2025,National Science Foundation,"Technology, Innovation and Partnerships (TIP) Microsoft (MS) Copilot Pilot",False
+2025,National Science Foundation,A document summarizer via Natural Language Processing,False
+2025,National Science Foundation,Document similarity analysis via Natural Language Processing,False
+2025,National Science Foundation,Microsoft 365 (M365) AI Builder pre-built Generative Pre-trained Transformer (GPT) for Summarization,False
+2025,National Science Foundation,Comparison of proposal similarities at different levels of National Science Foundation (NSF) organization,False
 2025,Office of Personnel Management,Microsoft Copilot,False
 2025,Office of Personnel Management,OpenAI ChatGPT,False
 2025,Office of Personnel Management,Anthropic Claude,False
